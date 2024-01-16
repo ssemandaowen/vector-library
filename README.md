@@ -2,7 +2,7 @@
 
 The `Vec2D` class is a versatile 2D vector implementation in JavaScript, providing essential vector operations and additional functionalities.
 ## Installation
-Try to include the imports by 
+Try to import the module by the import keyword to access the class in the --Vec2D.js
 
 ```
 import Vec2D from '/path/to/Vec2D.js';
